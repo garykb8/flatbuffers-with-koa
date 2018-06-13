@@ -1,0 +1,7 @@
+namespace MyGreeting.Sample;
+
+table Greeting {
+    name:string;
+}
+
+root_type Greeting;
